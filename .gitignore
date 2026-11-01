@@ -1,0 +1,4 @@
+.venv/
+.venv315/
+__pycache__/
+fogasok.json
